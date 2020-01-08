@@ -1,1 +1,5 @@
 this is file1
+<<<<<<< HEAD
+=======
+this is file2
+>>>>>>> hotfix
